@@ -84,3 +84,29 @@ post_asset_folder: true
 效果：
 
 {% asset_img Snipaste_2019-12-05_09-02-16.png exampel picture %}
+
+主题
+---
+
+主题使用的是`ICARUS`，只要复制到主题文件夹再配置启用即可。
+
+``` bash
+git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
+```
+
+在主配置文件`_config.yml`中，找到并替换掉默认主题：
+
+``` yml
+theme: icarus
+```
+
+效果：
+
+{% asset_img Snipaste_2019-12-05_15-40-48 exampel picture %}
+
+是不是比默认的好看多了:D
+
+References
+---
+
+1. [ppoffice/hexo-theme-icarus: A simple, delicate, and modern theme for the static site generator Hexo.](https://github.com/ppoffice/hexo-theme-icarus)
