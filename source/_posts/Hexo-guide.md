@@ -102,7 +102,7 @@ theme: icarus
 
 效果：
 
-{% asset_img Snipaste_2019-12-05_15-40-48 exampel picture %}
+{% asset_img Snipaste_2019-12-05_15-40-48.png exampel picture %}
 
 是不是比默认的好看多了:D
 
